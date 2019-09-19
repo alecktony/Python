@@ -194,3 +194,5 @@ print(Sliced_List)
 Sliced_List = List[::-1] 
 print("\nPrinting List in reverse: ") 
 print(Sliced_List) 
+
+print('Goodbye')
