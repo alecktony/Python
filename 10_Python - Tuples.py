@@ -86,10 +86,4 @@ print(Tuple1[4:9])
 
 print('\n')
 
-#########################Deleting a Tuple
-# Deleting a Tuple 
-  
-#Tuple1 = (0, 1, 2, 3, 4) 
-#del Tuple1 
-  
-#print(Tuple1) 
+print('Goodbye')
