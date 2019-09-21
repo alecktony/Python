@@ -51,17 +51,4 @@ print('\n')
 quatro = lambda x: x*x*x
 print(quatro(5))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print('Goodbye')
