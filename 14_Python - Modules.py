@@ -44,7 +44,6 @@ print math.tan(0.23)
 # 1 * 2 * 3 * 4 = 24 
 print math.factorial(4)  
   
-  
 # importing built in module random 
 import random 
   
